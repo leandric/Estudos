@@ -1,0 +1,56 @@
+
+body
+{
+    
+}
+#banner1
+{
+    width: 100%;
+}
+.titulo-centralizado
+{
+    text-align: center;
+}
+p
+{
+    font-size: 20px;
+}
+strong
+{
+    color: red;
+}
+#empresa
+{
+    color: white;
+}
+.item
+{
+    font-style: italic;
+}
+.principal
+{
+    background-color: #ccc;
+    padding: 30px;
+}
+.beneficios
+{
+    background: white;
+    padding: 20px;
+}
+ul
+{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+
+.imgbeneficios
+{
+    width: 50%;
+}
+.titulo-principal
+{
+    padding-left: 20px;
+}

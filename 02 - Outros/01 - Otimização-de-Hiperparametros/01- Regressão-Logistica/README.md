@@ -3,7 +3,7 @@
 
 Algoritmo de classificação em aprendizagem supervisionada.
 Utiliza conceitos de regressão linear em seu modelo matemático.
-### $$\operatorname{p} = \frac{1} {1 + e^{(\beta_0 + \beta_1x_1 + \beta_2x_2 + \beta_3x_3 + ... + \beta_nx_n)}}$$
+# $$\operatorname{p} = \frac{1} {1 + e^{(\beta_0 + \beta_1x_1 + \beta_2x_2 + \beta_3x_3 + ... + \beta_nx_n)}}$$
 p = probabilidade de pertencer a determinada classe.<br>
 e = número de Euler.<br>
 bo = intercepto.<br>
